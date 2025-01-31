@@ -1,5 +1,5 @@
 ## 👋 About Me
-I am Bastián M, Master’s in Civil Engineering and Civil Engineer from the University of Concepción. I completed my master’s thesis on the hydrodynamic interaction of supercritical flow with emerging obstacles through advanced numerical simulations using RANS (Reynolds-averaged Navier–Stokes equations) with VOF (Volume of Fluid) in OpenFoam.
+I am Bastián Martínez, Master’s in Civil Engineering and Civil Engineer from the University of Concepción. I completed my master’s thesis on the hydrodynamic interaction of supercritical flow with emerging obstacles through advanced numerical simulations using RANS (Reynolds-averaged Navier–Stokes equations) with VOF (Volume of Fluid) in OpenFoam.
 
 ## 💡 My Skills
 
